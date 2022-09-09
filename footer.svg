@@ -77,7 +77,7 @@
 <div class="container">
         <div class="wrapper">
             <div align="top" class="typing-demo">
-              <h3>requisitos</h3>
+              <h3>requisitos:</h3>
              <ul>
               <li>instalar nodejs</li>
 	      <li>node -v para verificar a versao</li>     
