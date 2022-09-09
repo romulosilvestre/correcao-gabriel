@@ -37,7 +37,8 @@
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
 					color: white;
-					text-align: center;
+					text-align: left;
+					padding-left: 10px;
 				}
         
         .wrapper {
@@ -78,21 +79,12 @@
             <div align="top" class="typing-demo">
               <h3>requisitos</h3>
              <ul>
-              <li>entrar aqui </li>
-	      <li>olhar</li>     
-              <li>dar nota 10</li>
-              <li>e nao sei mais o que de 10 formas</li>
-              <li>1</li>
-	      <li>2</li>
-	      <li>3</li>
-	      <li>4</li>
-	      <li>5</li>
-	      <li>6</li>
-	      <li>7</li>
-	      <li>8</li>
-          <li>9</li>
-          <li>10</li>
-          	 </ul> 
+              <li>instalar nodejs</li>
+	      <li>node -v para verificar a versao</li>     
+          <li>instalar prompt-sync</li>
+          <li>npm i prompt-sync</li>
+            
+			 </ul> 
             </div>
         </div>
 </div>
